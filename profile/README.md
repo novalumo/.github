@@ -1,12 +1,16 @@
-## Hi there 👋
+## Hi, We are “Novalumo” 👋
 
-<!--
+We are “A New World Creation Company” in Ofunato, Iwate, Japan.
 
-**Here are some ideas to get you started:**
+“Novalumo” is the international auxiliary word Esperanto, which means “New Light”. This word contains the desire to “give light to the world and make people smile.”
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Our mission is to bring courage, hope, and smiles to many people through information and communication technology, and entertainment.
+
+### 🏢 Business / Service
+
+- Making videos
+- Human resources development
+- System development
+- Internationalization
+
+...and more!
